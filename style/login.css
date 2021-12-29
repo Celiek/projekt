@@ -14,6 +14,7 @@ body{
   transform: translate(-50%,-50%);
   background: #191919;
   text-align: center;
+  opacity: 0.75;
 }
 .box h1{
   color: white;
@@ -81,8 +82,13 @@ footer{
 		width:100%;
 		height:220px;		
 		background:#b5fbbd;
+        color: white;
 
 }
-#navbar{
+
+
+
+.navbar{
     width: 100%;
+    border-radius: 10px;
 }
